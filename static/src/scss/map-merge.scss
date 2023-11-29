@@ -1,0 +1,8 @@
+//merges 'glacial_indifference' with the other odoo fonts:
+$o-theme-font-configs: map-merge($o-theme-font-configs, (
+    
+    'Glacial Indifference': (
+        'family': ('Glacial Indifference'),
+    ),
+
+));
